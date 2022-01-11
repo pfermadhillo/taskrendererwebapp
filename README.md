@@ -23,5 +23,5 @@ sudo apt-get install -y nodejs
 node -v  // was now 17
 npm install  // got better versions of all dependancies
 
-
+// ran BFG for dirty commit
 
